@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Pattern Library
 
 You can use the [editor on GitHub](https://github.com/medichecks-kd/patternlib/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
